@@ -24,7 +24,11 @@ Package: libkf5calendarutils-dev
 Section: libdevel
 Architecture: any
 Multi-Arch: foreign
-Depends: libkf5calendarutils5 (= ${binary:Version}), ${misc:Depends}
+Depends: libkf5calendarcore-dev,
+         libkf5calendarutils5 (= ${binary:Version}),
+         libkf5coreaddons-dev,
+         libkf5kdelibs4support-dev,
+         ${misc:Depends}
 Description: kcalutils - development files
  This library provides a set of utility functions that help applications access
  and use calendar data via the KCalCore library.
