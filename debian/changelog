@@ -1,3 +1,9 @@
+kcalutils (4:15.08.0-0ubuntu1) UNRELEASED; urgency=medium
+
+  * new upstream release
+
+ -- Clive Johnston <clivejo@aol.com>  Thu, 20 Aug 2015 13:21:16 +0000
+
 kcalutils (4:15.07.90-0ubuntu2) wily; urgency=medium
 
   * Launchpad requires an epoch
