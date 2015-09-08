@@ -3,13 +3,15 @@ Upstream-Name: kcalutils
 Source: http://download.kde.org/pub/kde/unstable/applications/
 
 Files: *
-Copyright: 2009-2010 Klarälvdalens Datakonsult AB, a KDAB Group company <info@kdab.net>
-           1998 Preston Brown <pbrown@kde.org>
-           2003-2004 Reinhold Kainhofer <reinhold@kainhofer.com>
-           2005 Rafal Rzepecki <divide@users.sourceforge.net>
-           2008 Thomas Thrainer <tom_t@gmx.at>
-           2000-2003 Cornelius Schumacher <schumacher@kde.org>
-           2014 Laurent Montel <montel@kde.org>
+Copyright: 2000-2004, Cornelius Schumacher <schumacher@kde.org>
+           1991, Free Software Foundation, Inc
+           2009-2010, Klarälvdalens Datakonsult AB, a KDAB Group company <info@kdab.net>
+           2014, Laurent Montel <montel@kde.org>
+           1998, Preston Brown <pbrown@kde.org>
+           2005, Rafal Rzepecki <divide@users.sourceforge.net>
+           2003-2004, Reinhold Kainhofer <reinhold@kainhofer.com>
+           2015, Sérgio Martins <iamsergio@gmail.com>
+           2008, Thomas Thrainer <tom_t@gmx.at>
 License: LGPL-2+
 
 Files: debian/*
