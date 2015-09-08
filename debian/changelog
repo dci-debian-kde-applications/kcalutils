@@ -1,3 +1,9 @@
+kcalutils (15.08.0-1~) UNRELEASED; urgency=medium
+
+  * Initial Debian release.
+
+ -- Maximiliano Curia <maxy@debian.org>  Tue, 08 Sep 2015 13:00:37 +0200
+
 kcalutils (15.08.0-0ubuntu1) wily; urgency=medium
 
   * new upstream release
