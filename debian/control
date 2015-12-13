@@ -5,6 +5,7 @@ Maintainer: Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
 Build-Depends: cmake (>= 2.8.12~),
                debhelper (>= 9),
                extra-cmake-modules (>= 5.12.0~),
+               libgrantlee5-dev,
                libkf5calendarcore-dev,
                libkf5codecs-dev,
                libkf5config-dev,
@@ -13,8 +14,7 @@ Build-Depends: cmake (>= 2.8.12~),
                libkf5identitymanagement-dev,
                libkf5kdelibs4support-dev,
                libkf5pimtextedit-dev,
-               pkg-kde-tools (>> 0.15.15),
-               libgrantlee5-dev
+               pkg-kde-tools (>> 0.15.15)
 Standards-Version: 3.9.6
 XS-Testsuite: autopkgtest
 Homepage: https://projects.kde.org/projects/kde/pim/kcalutils
