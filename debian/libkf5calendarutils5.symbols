@@ -1,4 +1,4 @@
-# SymbolsHelper-Confirmed: 4:15.12.0 amd64 i386
+# SymbolsHelper-Confirmed: 4:15.12.1 amd64 i386
 libKF5CalendarUtils.so.5 libkf5calendarutils5 #MINVER#
  _ZN9KCalUtils10DndFactory10createDragEP7QWidget@Base 4:15.07.90
  _ZN9KCalUtils10DndFactory10createDragERK14QSharedPointerIN8KCalCore9IncidenceEEP7QWidget@Base 4:15.07.90
