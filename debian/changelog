@@ -1,7 +1,8 @@
 kcalutils (4:15.12.1-0ubuntu1) UNRELEASED; urgency=medium
 
-  * Non-maintainer upload.
+  * New upstream release.
   * Debian merge: No remaining changes. 
+  * Fix changelog.
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Fri, 29 Jan 2016 13:22:09 -0800
 
