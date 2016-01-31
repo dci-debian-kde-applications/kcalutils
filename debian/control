@@ -44,15 +44,3 @@ Depends: ${misc:Depends}, ${shlibs:Depends}
 Description: library with utility functions for the handling of calendar data
  This library provides a set of utility functions that help applications access
  and use calendar data via the KCalCore library.
-
-Package: libkf5calendarutils-dbg
-Section: debug
-Priority: extra
-Architecture: any
-Multi-Arch: same
-Depends: libkf5calendarutils5 (= ${binary:Version}), ${misc:Depends}
-Description: kcalutils - debug symbols
- This library provides a set of utility functions that help applications access
- and use calendar data via the KCalCore library.
- .
- This package contains the debug symbols.
