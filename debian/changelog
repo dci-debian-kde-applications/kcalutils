@@ -9,10 +9,14 @@ kcalutils (4:15.12.1-0ubuntu1) UNRELEASED; urgency=medium
   * Symbols - again - pim stack rebuild. 
   * Symbols? again? really? 
   * Manually add new symbols in. 
-
+  * Refresh symbols. 
+  
   [ Clive Johnston ]
   * Fiixng install file
   * Refresh symbols 
+
+  [ Scarlett Clark ]
+  * Fix merge. 
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Fri, 29 Jan 2016 13:22:09 -0800
 
