@@ -11,7 +11,8 @@ kcalutils (4:15.12.1-0ubuntu1) UNRELEASED; urgency=medium
   * Manually add new symbols in. 
 
   [ Clive Johnston ]
-  * Fiixng install file 
+  * Fiixng install file
+  * Refresh symbols 
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Fri, 29 Jan 2016 13:22:09 -0800
 
