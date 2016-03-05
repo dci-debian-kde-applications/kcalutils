@@ -10,6 +10,7 @@ kcalutils (4:15.12.1-0ubuntu1) UNRELEASED; urgency=medium
   * Symbols? again? really? 
   * Manually add new symbols in. 
   * Refresh symbols. 
+  * Bump build depend version on pim*. 
   
   [ Clive Johnston ]
   * Fiixng install file
@@ -17,6 +18,7 @@ kcalutils (4:15.12.1-0ubuntu1) UNRELEASED; urgency=medium
 
   [ Scarlett Clark ]
   * Fix merge. 
+  * Fix merger. 
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Fri, 29 Jan 2016 13:22:09 -0800
 
