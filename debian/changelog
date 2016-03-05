@@ -20,6 +20,13 @@ kcalutils (4:15.12.1-0ubuntu1) UNRELEASED; urgency=medium
   * Fix merge. 
   * Fix merger. 
 
+  [ Clive Johnston ]
+  * Refreshing symbols and removing merge marker 
+  * Fixing symbols file
+
+  [ Scarlett Clark ]
+  * Fun with mergers. Weeeee. 
+
  -- Scarlett Clark <sgclark@kubuntu.org>  Fri, 29 Jan 2016 13:22:09 -0800
 
 kcalutils (4:15.12.0-0ubuntu1) UNRELEASED; urgency=medium
