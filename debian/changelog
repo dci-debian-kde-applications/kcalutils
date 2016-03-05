@@ -1,15 +1,32 @@
 kcalutils (4:15.12.1-0ubuntu1) UNRELEASED; urgency=medium
 
+  [ Scarlett Clark ]
   * New upstream release.
-  * Debian merge: No remaining changes. 
+  * Debian merge: No remaining changes.
   * Fix changelog.
-  * Refresh symbols. 
-  * Refresh symbols again - rebuild pim stack. 
-  * Symbols - again - pim stack rebuild. 
-  * Symbols? again? really? 
-  * Manually add new symbols in. 
-  * Refresh symbols. 
-  * Bump build depend version on pim*. 
+  * Refresh symbols.
+  * Refresh symbols again - rebuild pim stack.
+  * Symbols - again - pim stack rebuild.
+  * Symbols? again? really?
+  * Manually add new symbols in.
+  * Refresh symbols.
+  * Bump build depend version on pim*.
+
+  [ Clive Johnston ]
+  * Fiixng install file
+  * Refresh symbols
+
+  [ Scarlett Clark ]
+  * Fix merge.
+  * Fix merger.
+
+  [ Clive Johnston ]
+  * Refreshing symbols and removing merge marker
+  * Fixing symbols file
+
+  [ Scarlett Clark ]
+  * Fun with mergers. Weeeee.
+  * Fun with symbols. Weeeee.
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Fri, 29 Jan 2016 13:22:09 -0800
 
