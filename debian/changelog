@@ -29,6 +29,9 @@ kcalutils (4:15.12.1-0ubuntu1) UNRELEASED; urgency=medium
   * Fix merger again. 
   * Fix merge again and again.. forever. 
 
+  [ Clive Johnston ]
+  * Refreshing symbols
+
  -- Scarlett Clark <sgclark@kubuntu.org>  Fri, 29 Jan 2016 13:22:09 -0800
 
 kcalutils (4:15.12.0-0ubuntu1) UNRELEASED; urgency=medium
