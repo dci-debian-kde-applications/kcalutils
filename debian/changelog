@@ -1,4 +1,4 @@
-kcalutils (4:15.12.1-0ubuntu1) UNRELEASED; urgency=medium
+kcalutils (4:15.12.1-0ubuntu1) xenial; urgency=medium
 
   [ Scarlett Clark ]
   * New upstream release.
@@ -28,7 +28,7 @@ kcalutils (4:15.12.1-0ubuntu1) UNRELEASED; urgency=medium
   * Fun with mergers. Weeeee.
   * Fun with symbols. Weeeee.
 
- -- Scarlett Clark <sgclark@kubuntu.org>  Fri, 29 Jan 2016 13:22:09 -0800
+ -- Scarlett Clark <sgclark@kubuntu.org>  Wed, 09 Mar 2016 10:32:21 +0100
 
 kcalutils (4:15.12.0-0ubuntu1) UNRELEASED; urgency=medium
 
