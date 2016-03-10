@@ -3,8 +3,8 @@ kcalendar_grantlee_plugin.so libkf5calendarutils5 #MINVER#
  _ZTIN8Grantlee9ExceptionE@Base 4:15.12.1
  _ZTSN8Grantlee9ExceptionE@Base 4:15.12.1
  _ZTVN8Grantlee9ExceptionE@Base 4:15.12.1
- qt_plugin_instance@Base 4:15.12.1-0ubuntu1~ubuntu16.04~ppa3
- qt_plugin_query_metadata@Base 4:15.12.1-0ubuntu1~ubuntu16.04~ppa3
+ qt_plugin_instance@Base 4:15.12.1
+ qt_plugin_query_metadata@Base 4:15.12.1
 libKF5CalendarUtils.so.5 libkf5calendarutils5 #MINVER#
  _ZN9KCalUtils10DndFactory10createDragEP7QWidget@Base 4:15.07.90
  _ZN9KCalUtils10DndFactory10createDragERK14QSharedPointerIN8KCalCore9IncidenceEEP7QWidget@Base 4:15.07.90

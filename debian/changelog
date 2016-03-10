@@ -1,6 +1,7 @@
 kcalutils (4:15.12.2-0ubuntu1) UNRELEASED; urgency=medium
 
   * New upstream bugfix release
+  * refresh symbols. 
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Wed, 09 Mar 2016 21:05:15 -0800
 
