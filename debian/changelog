@@ -1,3 +1,9 @@
+kcalutils (4:15.12.1-0ubuntu2) xenial; urgency=medium
+
+  * Add missing epoch to kcalcore build depend. 
+
+ -- Scarlett Clark <sgclark@kubuntu.org>  Wed, 09 Mar 2016 18:26:52 -0800
+
 kcalutils (4:15.12.1-0ubuntu1) xenial; urgency=medium
 
   [ Scarlett Clark ]
