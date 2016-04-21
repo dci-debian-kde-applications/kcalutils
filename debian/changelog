@@ -1,10 +1,12 @@
-kcalutils (15.12.1-2~1.gbp6b3c35) UNRELEASED; urgency=medium
+kcalutils (16.04.0-1~1.gbpd41888) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @6b3c3514e1968ef76d4d1e68b6b01ee3d1e71a4c **
+  ** SNAPSHOT build @d418889c23b691592ccfa650afa21f85647e2022 **
 
   * Bump Standards-Version to 3.9.8
+  * Add a .gitattributes file to use dpkg-mergechangelogs
+  * Update build-deps and deps with the info from cmake
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Wed, 13 Apr 2016 11:58:52 +0200
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Thu, 21 Apr 2016 03:57:15 +0200
 
 kcalutils (15.12.1-1) experimental; urgency=medium
 
