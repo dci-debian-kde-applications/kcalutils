@@ -1,12 +1,21 @@
-kcalutils (16.04.0-1~1.gbpd41888) UNRELEASED; urgency=medium
+kcalutils (16.04.0-1~2.gbpbd9ffd) UNRELEASED; urgency=medium
 
+  ** SNAPSHOT build @bd9ffd575d4367bed98be92c6208b034e7de4ea5 **
+
+  [ Automatic packaging ]
   ** SNAPSHOT build @d418889c23b691592ccfa650afa21f85647e2022 **
 
   * Bump Standards-Version to 3.9.8
   * Add a .gitattributes file to use dpkg-mergechangelogs
   * Update build-deps and deps with the info from cmake
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Thu, 21 Apr 2016 03:57:15 +0200
+  [ Maximiliano Curia ]
+  * Replace the "Historical name" ddeb-migration by its "Modern, clearer" replacement dbgsym-migration.
+  * Add upstream metadata (DEP-12)
+  * debian/control: Update Vcs-Browser and Vcs-Git fields
+  * Update install files
+
+ -- Maximiliano Curia <maxy@gnuservers.com.ar>  Tue, 26 Apr 2016 15:21:56 +0200
 
 kcalutils (15.12.1-1) experimental; urgency=medium
 
