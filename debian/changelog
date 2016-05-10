@@ -1,6 +1,6 @@
-kcalutils (16.04.0-1~2.gbpbd9ffd) UNRELEASED; urgency=medium
+kcalutils (16.04.1-1~1.gbp8136af) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @bd9ffd575d4367bed98be92c6208b034e7de4ea5 **
+  ** SNAPSHOT build @8136afb41c4da94b520020fe91295019d41d56fc **
 
   [ Automatic packaging ]
   ** SNAPSHOT build @d418889c23b691592ccfa650afa21f85647e2022 **
@@ -14,8 +14,9 @@ kcalutils (16.04.0-1~2.gbpbd9ffd) UNRELEASED; urgency=medium
   * Add upstream metadata (DEP-12)
   * debian/control: Update Vcs-Browser and Vcs-Git fields
   * Update install files
+  * UNRELEASED
 
- -- Maximiliano Curia <maxy@gnuservers.com.ar>  Tue, 26 Apr 2016 15:21:56 +0200
+ -- Maximiliano Curia <jenkins@amadeus.gnuservers.com.ar>  Tue, 10 May 2016 21:57:13 +0200
 
 kcalutils (15.12.1-1) experimental; urgency=medium
 
