@@ -1,6 +1,6 @@
-kcalutils (16.04.1-1~1.gbp8136af) UNRELEASED; urgency=medium
+kcalutils (16.04.1-1~2.gbpa5312f) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @8136afb41c4da94b520020fe91295019d41d56fc **
+  ** SNAPSHOT build @a5312f4807554f125d334dc69fb7bf6248a940b6 **
 
   [ Automatic packaging ]
   ** SNAPSHOT build @d418889c23b691592ccfa650afa21f85647e2022 **
@@ -15,8 +15,11 @@ kcalutils (16.04.1-1~1.gbp8136af) UNRELEASED; urgency=medium
   * debian/control: Update Vcs-Browser and Vcs-Git fields
   * Update install files
   * UNRELEASED
+  * Add missing build dependency.
+  * Update tests dependencies
+  * Update testsuite
 
- -- Maximiliano Curia <jenkins@amadeus.gnuservers.com.ar>  Tue, 10 May 2016 21:57:13 +0200
+ -- Maximiliano Curia <maxy@gnuservers.com.ar>  Wed, 11 May 2016 10:47:47 +0200
 
 kcalutils (15.12.1-1) experimental; urgency=medium
 
