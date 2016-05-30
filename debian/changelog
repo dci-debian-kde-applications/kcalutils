@@ -1,10 +1,6 @@
-kcalutils (16.04.1-1~2.gbpa5312f) UNRELEASED; urgency=medium
-
-  ** SNAPSHOT build @a5312f4807554f125d334dc69fb7bf6248a940b6 **
+kcalutils (16.04.1-1) unstable; urgency=medium
 
   [ Automatic packaging ]
-  ** SNAPSHOT build @d418889c23b691592ccfa650afa21f85647e2022 **
-
   * Bump Standards-Version to 3.9.8
   * Add a .gitattributes file to use dpkg-mergechangelogs
   * Update build-deps and deps with the info from cmake
@@ -14,12 +10,11 @@ kcalutils (16.04.1-1~2.gbpa5312f) UNRELEASED; urgency=medium
   * Add upstream metadata (DEP-12)
   * debian/control: Update Vcs-Browser and Vcs-Git fields
   * Update install files
-  * UNRELEASED
   * Add missing build dependency.
   * Update tests dependencies
   * Update testsuite
 
- -- Maximiliano Curia <maxy@gnuservers.com.ar>  Wed, 11 May 2016 10:47:47 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Mon, 30 May 2016 10:46:16 +0200
 
 kcalutils (15.12.1-1) experimental; urgency=medium
 
