@@ -1,10 +1,8 @@
-kcalutils (16.04.2-1~1.gbp8e400f) UNRELEASED; urgency=medium
+kcalutils (16.04.2-1) unstable; urgency=medium
 
-  ** SNAPSHOT build @8e400f2c755aa187057f43cde86f4ef26476cbf5 **
+  * Add new testsuite patch: set_icontheme.diff
 
-  * UNRELEASED
-
- -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Wed, 15 Jun 2016 03:57:17 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Tue, 28 Jun 2016 09:56:51 +0200
 
 kcalutils (16.04.1-1) unstable; urgency=medium
 
