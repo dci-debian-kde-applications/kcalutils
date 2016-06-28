@@ -1,7 +1,7 @@
 Tests: testsuite
 Depends: @, @builddeps@, build-essential,
          dbus-x11, xvfb, xauth, oxygen5-icon-theme, kded5, libgl1-mesa-dri,
-         kinit
+         kinit, plasma-framework
 Restrictions: build-needed
 
 Tests: acc
