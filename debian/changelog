@@ -1,3 +1,12 @@
+kcalutils (16.04.2-2~1.gbp987b0f) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @987b0f63c679bcf224f66a4463c75fef728a1f88 **
+
+  * Update install files.
+    Thanks to Lucas Nussbaum for the report (Closes: 830426)
+
+ -- Maximiliano Curia <maxy@gnuservers.com.ar>  Fri, 08 Jul 2016 13:19:54 +0200
+
 kcalutils (16.04.2-1) unstable; urgency=medium
 
   * Add new testsuite patch: set_icontheme.diff
