@@ -1,4 +1,4 @@
-usr/lib/*/grantlee/5.0/kcalendar_grantlee_plugin.so
+usr/lib/*/grantlee/*/kcalendar_grantlee_plugin.so
 usr/lib/*/libKF5CalendarUtils.so.5
 usr/lib/*/libKF5CalendarUtils.so.5.*
 usr/share/kcalendar/
