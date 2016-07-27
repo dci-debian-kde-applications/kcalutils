@@ -1,18 +1,35 @@
-kcalutils (16.04.1-0neon) xenial; urgency=medium
+kcalutils (16.04.2-2~1.gbp987b0f) UNRELEASED; urgency=medium
 
-  * New release
+  ** SNAPSHOT build @987b0f63c679bcf224f66a4463c75fef728a1f88 **
 
- -- Neon CI <neon@kde.org>  Wed, 18 May 2016 18:13:13 +0200
+  * Update install files.
+    Thanks to Lucas Nussbaum for the report (Closes: 830426)
 
-kcalutils (16.04.0-1~1.gbpd41888) UNRELEASED; urgency=medium
+ -- Maximiliano Curia <maxy@gnuservers.com.ar>  Fri, 08 Jul 2016 13:19:54 +0200
 
-  ** SNAPSHOT build @d418889c23b691592ccfa650afa21f85647e2022 **
+kcalutils (16.04.2-1) unstable; urgency=medium
 
+  * Add new testsuite patch: set_icontheme.diff
+
+ -- Maximiliano Curia <maxy@debian.org>  Tue, 28 Jun 2016 09:56:51 +0200
+
+kcalutils (16.04.1-1) unstable; urgency=medium
+
+  [ Automatic packaging ]
   * Bump Standards-Version to 3.9.8
   * Add a .gitattributes file to use dpkg-mergechangelogs
   * Update build-deps and deps with the info from cmake
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Thu, 21 Apr 2016 03:57:15 +0200
+  [ Maximiliano Curia ]
+  * Replace the "Historical name" ddeb-migration by its "Modern, clearer" replacement dbgsym-migration.
+  * Add upstream metadata (DEP-12)
+  * debian/control: Update Vcs-Browser and Vcs-Git fields
+  * Update install files
+  * Add missing build dependency.
+  * Update tests dependencies
+  * Update testsuite
+
+ -- Maximiliano Curia <maxy@debian.org>  Mon, 30 May 2016 10:46:16 +0200
 
 kcalutils (15.12.1-1) experimental; urgency=medium
 
