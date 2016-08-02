@@ -1,6 +1,6 @@
-kcalutils (16.04.2-2~1.gbp987b0f) UNRELEASED; urgency=medium
+kcalutils (16.04.3-1~1.gbp41eb92) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @987b0f63c679bcf224f66a4463c75fef728a1f88 **
+  ** SNAPSHOT build @41eb92a9f9731984e15db022d253049f653e13dc **
 
   [ Maximiliano Curia ]
   * Update install files.
@@ -10,7 +10,10 @@ kcalutils (16.04.2-2~1.gbp987b0f) UNRELEASED; urgency=medium
   * autopkgtest: switch from oxygen5-icon-theme back to the canonical
     oxygen-icon-theme.
 
- -- Maximiliano Curia <maxy@gnuservers.com.ar>  Fri, 08 Jul 2016 13:19:54 +0200
+  [ Automatic packaging ]
+  * Refresh patches
+
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Tue, 12 Jul 2016 21:57:14 +0200
 
 kcalutils (16.04.2-1) unstable; urgency=medium
 
