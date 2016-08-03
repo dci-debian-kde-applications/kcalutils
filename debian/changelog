@@ -1,3 +1,9 @@
+kcalutils (4:16.04.3-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Wed, 03 Aug 2016 12:50:31 +0000
+
 kcalutils (4:16.04.2-2~1.gbp987b0f) UNRELEASED; urgency=medium
 
   ** SNAPSHOT build @987b0f63c679bcf224f66a4463c75fef728a1f88 **
