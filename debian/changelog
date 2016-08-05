@@ -1,6 +1,4 @@
-kcalutils (16.04.3-1~2.gbp089788) UNRELEASED; urgency=medium
-
-  ** SNAPSHOT build @08978864c51862b6679036d2de3761fdf8c09b69 **
+kcalutils (16.04.3-1) unstable; urgency=medium
 
   [ Maximiliano Curia ]
   * Update install files.
@@ -9,12 +7,11 @@ kcalutils (16.04.3-1~2.gbp089788) UNRELEASED; urgency=medium
   [ Pino Toscano ]
   * autopkgtest: switch from oxygen5-icon-theme back to the canonical
     oxygen-icon-theme.
-  * autopkgtest: switch from oxygen5-icon-theme back to oxygen-icon-theme
 
   [ Automatic packaging ]
   * Refresh patches
 
- -- Pino Toscano <pino@debian.org>  Tue, 02 Aug 2016 13:45:40 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 05 Aug 2016 12:03:07 +0200
 
 kcalutils (16.04.2-1) unstable; urgency=medium
 
