@@ -1,3 +1,11 @@
+kcalutils (16.08.0-1~1.gbpa955f1) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @a955f1f969a6c7f71a76d8cd088f06a6c10763f0 **
+
+  * Update build-deps and deps with the info from cmake
+
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Fri, 19 Aug 2016 09:57:09 +0200
+
 kcalutils (16.04.3-1) unstable; urgency=medium
 
   [ Maximiliano Curia ]
