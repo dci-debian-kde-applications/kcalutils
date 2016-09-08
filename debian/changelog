@@ -1,17 +1,18 @@
-kcalutils (16.08.0-1~3.gbp92edf2) UNRELEASED; urgency=medium
+kcalutils (16.08.1-1~1.gbpc6b037) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @92edf22c5ed1a7ba6f9798183f0b1523acdfdb11 **
+  ** SNAPSHOT build @c6b0371dadd1a3c46d4a41bd528c8f61197f863e **
 
   [ Automatic packaging ]
   ** SNAPSHOT build @43e13e6fadc7b441784253ffebb758711e3484ec **
 
   * Update build-deps and deps with the info from cmake
   * Refresh patches
+  * Update build-deps and deps with the info from cmake
 
   [ Maximiliano Curia ]
   * Update install files
 
- -- Maximiliano Curia <maxy@gnuservers.com.ar>  Sun, 28 Aug 2016 21:42:31 +0200
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Thu, 08 Sep 2016 21:57:34 +0200
 
 kcalutils (16.04.3-1) unstable; urgency=medium
 
