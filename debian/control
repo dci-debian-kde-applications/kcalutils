@@ -8,12 +8,12 @@ Build-Depends: cmake (>= 2.8.12~),
                extra-cmake-modules (>= 5.23.0~),
                libgrantlee5-dev (>= 5.1~),
                libical-dev,
-               libkf5calendarcore-dev (>= 5.3.0~),
+               libkf5calendarcore-dev (>= 5.3.1~),
                libkf5codecs-dev (>= 5.23.0~),
                libkf5config-dev (>= 5.23.0~),
                libkf5coreaddons-dev (>= 5.23.0~),
                libkf5i18n-dev (>= 5.23.0~),
-               libkf5identitymanagement-dev (>= 5.3.0~),
+               libkf5identitymanagement-dev (>= 5.3.1~),
                libkf5kdelibs4support-dev (>= 5.23.0~),
                libkf5pimtextedit-dev,
                pkg-kde-tools (>> 0.15.15),
@@ -27,7 +27,7 @@ Package: libkf5calendarutils-dev
 Section: libdevel
 Architecture: any
 Multi-Arch: foreign
-Depends: libkf5calendarcore-dev (>= 5.3.0~),
+Depends: libkf5calendarcore-dev (>= 5.3.1~),
          libkf5calendarutils5 (= ${binary:Version}),
          libkf5coreaddons-dev (>= 5.23.0~),
          libkf5kdelibs4support-dev (>= 5.23.0~),
