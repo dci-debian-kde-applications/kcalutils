@@ -3,7 +3,3 @@ Depends: @, @builddeps@, build-essential,
          dbus-x11, xvfb, xauth, oxygen5-icon-theme, kded5, libgl1-mesa-dri,
          kinit, plasma-framework
 Restrictions: build-needed
-
-Tests: acc
-Depends: @, dh-acc, exuberant-ctags
-Restrictions: allow-stderr
