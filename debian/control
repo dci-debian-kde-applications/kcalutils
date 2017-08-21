@@ -17,7 +17,7 @@ Build-Depends: cmake (>= 2.8.12~),
                libkf5kdelibs4support-dev (>= 5.23.0~),
                libkf5pimtextedit-dev,
                pkg-kde-tools (>> 0.15.15),
-               qtbase5-dev (>= 5.2.0~)
+               qtbase5-dev (>= 5.2.0~),
 Standards-Version: 4.0.1
 Homepage: https://projects.kde.org/projects/kde/pim/kcalutils
 Vcs-Browser: https://anonscm.debian.org/git/pkg-kde/applications/kcalutils.git
@@ -31,7 +31,7 @@ Depends: libkf5calendarcore-dev (>= 5.3.1~),
          libkf5calendarutils5 (= ${binary:Version}),
          libkf5coreaddons-dev (>= 5.23.0~),
          libkf5kdelibs4support-dev (>= 5.23.0~),
-         ${misc:Depends}
+         ${misc:Depends},
 Description: kcalutils - development files
  This library provides a set of utility functions that help applications access
  and use calendar data via the KCalCore library.
