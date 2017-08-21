@@ -42,8 +42,8 @@ Package: libkf5calendarutils5
 Architecture: any
 Multi-Arch: same
 Depends: ${misc:Depends}, ${shlibs:Depends}
-Breaks: ${kde-l10n:all}
-Replaces: ${kde-l10n:all}
+Breaks: kde-l10n-ast (<< 4:17.03.90-0~), ${kde-l10n:all}
+Replaces: kde-l10n-ast (<< 4:17.03.90-0~), ${kde-l10n:all}
 Description: library with utility functions for the handling of calendar data
  This library provides a set of utility functions that help applications access
  and use calendar data via the KCalCore library.
