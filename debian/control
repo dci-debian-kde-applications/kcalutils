@@ -27,7 +27,7 @@ Vcs-Git: https://anonscm.debian.org/git/pkg-kde/applications/kcalutils.git
 Package: libkf5calendarutils-dev
 Section: libdevel
 Architecture: any
-Multi-Arch: foreign
+Multi-Arch: same
 Depends: libkf5calendarcore-dev (>= 4:17.08~),
          libkf5calendarutils5 (= ${binary:Version}),
          libkf5coreaddons-dev (>= 5.35.0~),
