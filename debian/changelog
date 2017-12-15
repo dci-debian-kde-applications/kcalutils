@@ -4,7 +4,7 @@ kcalutils (4:17.08.3-1) UNRELEASED; urgency=medium
   * New upstream release (17.08.3).
   * Bump Standards-Version to 4.1.2 (No changes needed).
   * Get rid of unnessary break/replaces of kde-l10n-(ast|eo).
-  * Mark libkf5calendarutils-dev corretly as Multi-Arch: same
+  * Mark libkf5calendarutils-dev correctly as Multi-Arch: same
 
  -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Fri, 15 Dec 2017 15:41:52 +0100
 
